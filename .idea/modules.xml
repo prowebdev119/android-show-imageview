@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android_show_imageview.iml" filepath="$PROJECT_DIR$/.idea/modules/android_show_imageview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher/android_show_imageview.launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher/android_show_imageview.launcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/unityLibrary/android_show_imageview.unityLibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/unityLibrary/android_show_imageview.unityLibrary.iml" />
+    </modules>
+  </component>
+</project>

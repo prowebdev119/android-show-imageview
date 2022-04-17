@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "applicationId": "games.vaveda.rookie.rush.blood",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "INSTANT_APP_MANIFEST"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 1,
+        "versionName": "0.1",
+        "outputFile": "launcher-debug.apk",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "games.vaveda.rookie.rush.blood",
+        "split": "",
+        "minSdkVersion": "19"
+      }
+    }
+  ]
+}

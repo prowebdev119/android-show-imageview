@@ -1,0 +1,9 @@
+R_DEF: Internal format may change without notice
+local
+drawable close
+id btnClose
+id myOfferImage
+layout imagebutton
+style BaseUnityTheme
+style UnityThemeSelector
+style UnityThemeSelector.Translucent
